@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BT6
+namespace WDFB2
 {
-    public partial class Form1 : Form
+    public partial class Bai6 : Form
     {
-        public Form1()
+        public Bai6()
         {
             InitializeComponent();
         }
@@ -96,3 +96,4 @@ namespace BT6
         }
     }
 }
+
